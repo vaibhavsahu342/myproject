@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-h#dl+9jmjp5sy5c(m^lanq-fu!i6k5*r&^ya+#zmj51rty@^#d
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '127.0.0.1',
     'weather-project-neha.herokuapp.com'
 ]
 
